@@ -35,3 +35,8 @@ data/processed/
 # Carpetas ocultas
 .idea/
 .vscode/
+
+# Data (no subir archivos crudos)
+data/raw/
+*.csv
+*.xlsx
